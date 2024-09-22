@@ -1,0 +1,6 @@
+logfilenumber > 3
+lang > fr
+username <
+	DESKTOP-TKIP36M,_________ > ________
+	DESKTOP-TKIP36M,ASH_Poitiers > Louis
+>

@@ -1,0 +1,113 @@
+{
+    "memory": {
+        "lang": "fr",
+        "number_of_log_files": 0,
+        "log": true,
+        "profiles": {
+            "DESKTOP-TKIP36M": {
+                "ASH_Poitiers": "Martin"
+            },
+            "DESKTOP-TKIP37M": {
+                "username": null
+            }
+        }
+    },
+    "words": {
+        "help_words": [
+            "?",
+            "??",
+            "???",
+            "help",
+            "aide"
+        ],
+        "hello_words": [
+            "hello",
+            "hi",
+            "bonjour",
+            "bonjours",
+            "bonsoir",
+            "salut"
+        ],
+        "cancel_words": [
+            "cancel",
+            "annuler"
+        ],
+        "bye_words": {
+            "good_night": [
+                "bonne nuit",
+                "good night"
+            ],
+            "bye": [
+                "aurevoir",
+                "bye"
+            ]
+        },
+        "play_words": [
+            "veux-tu jouer avec moi",
+            "lance un jeu",
+            "tu veux jouer à un jeu",
+            "do you want to play with me",
+            "start a game",
+            "you want to play a game",
+            "launches a game",
+            "launch a game"
+        ],
+        "fonction_words": {
+            "change_name": [
+                "modifies mon nom",
+                "modifies mon prénom",
+                "modifies mon surnom",
+                "modifies mon nom d'utilisateur",
+                "change my name",
+                "change my username",
+                "change my nickname"
+            ],
+            "conversion": [
+                "conversion"
+            ],
+            "activation_log": [
+                "active les registre",
+                "active les logs"
+            ],
+            "desactivation_log": [
+                "desactive les registres",
+                "desactive les logs",
+                "désactive les registres",
+                "désactive les logs"
+            ],
+            "research_google": [
+                "recherche",
+                "cherche",
+                "search",
+                "research"
+            ]
+        },
+        "yes_words": [
+            "yep",
+            "yes",
+            "oui",
+            "yeah"
+        ],
+        "no_words": [
+            "nop",
+            "no",
+            "non",
+            "nan"
+        ],
+        "politeness_word": [
+            "s'il te plaît",
+            "s'il te plait",
+            "stp",
+            "s'il vous plaît",
+            "s'il vous plait",
+            "svp",
+            "please",
+            "pls"
+        ],
+        "politeness_end_word": [
+            "merci",
+            "thank you",
+            "ty"
+        ]
+    }
+}

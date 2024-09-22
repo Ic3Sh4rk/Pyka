@@ -1,0 +1,13 @@
+{
+    "lang": "fr",
+    "number_of_log_files": 0,
+    "log": true,
+    "profiles": {
+        "DESKTOP-TKIP36M": {
+            "ASH_Poitiers": "Louis"
+        },
+        "LAPTOP-8KMDVV4A": {
+            "louis": "Louis"
+        }
+    }
+}
